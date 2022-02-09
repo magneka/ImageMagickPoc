@@ -10,4 +10,13 @@
     <PackageReference Include="Magick.NET.Core" Version="9.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="paramsUrl1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="paramsFile1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

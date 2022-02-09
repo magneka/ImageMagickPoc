@@ -1,0 +1,40 @@
+{
+  "Location":  "FILE",
+  "Files": [
+    {
+      "Name": "ImageShop_1043452714",
+      "Uri": null
+    },
+    {
+      "Name": "ImageShop_1068846278",
+      "Uri": null
+    },
+    {
+      "Name": "ImageShop_1293598474",
+      "Uri": null
+    },
+    {
+      "Name": "ImageShop_1068846257",
+      "Uri": null
+    },
+    {
+      "Name": "ImageShop_1220809846",
+      "Uri": null
+    },
+    {
+      "Name": "ImageShop_1459133075",
+      "Uri": null
+    }
+  ],
+  "Ext": ".jpg",
+  "Sizes": [ 250, 500 ],
+  "Quality": 85,
+  "InFolder": "c:/magnea/testbilder/JPG/originals",
+  "OutFolder": "c:/magnea/konverterte",
+  "AutoLevel": true,
+  "ColorSpace": "sRGB",
+  "Modulate": null,
+  "GammaCorrect": 0.9,
+  "Strip": false,
+  "Interlace": "Jpeg"
+}

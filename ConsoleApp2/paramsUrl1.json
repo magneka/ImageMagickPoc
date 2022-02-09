@@ -1,0 +1,44 @@
+{
+  "Location": "Uri",
+  "Files": [
+    {
+      "Name": "1c11ee-wml",
+      "Uri": "https://s3-eu-west-1.amazonaws.com/s.imgi.no/server/base/292/-1c11ee-wml.jpg?AWSAccessKeyId=AKIAIDV4J233OBBIN64A&Expires=1649492857&Signature=q2utW%2B2VAJZ4UE0W5BcFEJkI2rg%3D"
+    },
+    {
+      "Name": "bigtree",
+      "Uri": "https://live.staticflickr.com/65535/51865932922_cb569daf35_4k.jpg"
+    },
+    {
+      "Name": "groupportrait",
+      "Uri": "https://live.staticflickr.com/65535/51862909070_0d463d3ab0_6k.jpg"
+    },
+    {
+      "Name": "sikringsskapet",
+      "Uri": "https://live.staticflickr.com/65535/51871351121_ac7732da30_6k.jpg"
+    },
+    {
+      "Name": "atcafe",
+      "Uri": "https://live.staticflickr.com/65535/51871986220_c5bf013264_b.jpg"
+    },
+    {
+      "Name": "horses",
+      "Uri": "https://live.staticflickr.com/65535/51872007290_a062c42fa0_b.jpg"
+    },
+    {
+      "Name": "sensotemple",
+      "Uri": "https://live.staticflickr.com/65535/51864021067_6f0a73e82c_h.jpg"
+    }
+  ],
+  "Ext": ".jpg",
+  "Sizes": [ 250, 500 ],
+  "Quality": 85,
+  "InFolder": "",
+  "OutFolder": "c:/magnea/konverterte",
+  "AutoLevel": true,
+  "ColorSpace": "sRGB",
+  "Modulate": null,
+  "GammaCorrect": 0.9,
+  "Strip": false,
+  "Interlace": "Jpeg"
+}

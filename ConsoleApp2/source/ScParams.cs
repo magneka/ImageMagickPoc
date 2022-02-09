@@ -4,9 +4,17 @@ using System.Text;
 
 namespace ConsoleApp2
 {
+    public class FileProps
+    {
+        public string Name { get; set; }
+        public string Uri { get; set; }
+    }
+
     public class ScParams
     {
-        public List<string> FileNames { get; set; }
+        public string Location { get; set; }
+        public List<FileProps> Files { get; set; } 
+        //public List<string> FileNames { get; set; }
         public string Ext { get; set; }
         public List<Int32> Sizes { get; set; }
         public int Quality { get; set; }
